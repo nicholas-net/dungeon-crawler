@@ -8,8 +8,7 @@
 <h2 id="how-to-run-it">How to Run It</h2>
 <ol>
     <li>
-        <p><strong>Download the code:</strong> You can click the green &quot;Code&quot; button on this GitHub page and choose &quot;Download ZIP,&quot; or use Git: </p>
-        git clone https://github.com/nicholas-net/dungeon-crawler.git
+        <p><strong>Download the code:</strong> You can click the green &quot;Code&quot; button above to download the zip folder or you can clone it on git.</p>
 </code></pre>
     </li>
     <li>
