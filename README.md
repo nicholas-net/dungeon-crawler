@@ -1,7 +1,9 @@
-So, for your DungeonApp project, using the "super basic" README template, here's what you would write:
+# <a href="https://www.linkedin.com/in/nick-colon/"Dungeon Crawler 🔥
 
-DungeonApp
+I'm a Computer Science student, and honestly, I'm just really into learning as much as I can. What truly clicks for me is backend programming – I just find it super cool how all the magic happens behind the scenes. Here is a collection of personal projects, because it's how I learn new stuff and have fun doing it.
 
-A Simple Text-Based Dungeon Crawler Game
 
-This is my very first text-based game! I built it to learn about Java programming, how to use Object-Oriented Programming (OOP), and how to make a basic game run in the terminal.
+- **[Delivery Driver Algorithm](https://github.com/nicholas-net/delivery_driver_project)**
+- **[Dungeon Crawler](https://github.com/nicholas-net/dungeon-crawler)**
+
+<hr/>
