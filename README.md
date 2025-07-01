@@ -23,7 +23,7 @@
 
 <h2 id="what-i-learned">What I Learned</h2>
 <ul>
-    <li>Write a modular program using various classes and objects.</li>
+    <li>How to write modular code using various classes and objects.</li>
     <li>Making different parts of the program interact with each other, like the combat between the hero and the different entities you're fighting!</li>
     <li>Implementing random elements for varied gameplay, like monster spawns and item drops.</li>
     <li>Not to stress about optimization right away. Build something first, and then go back and optimize it.</li>
