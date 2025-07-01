@@ -1,4 +1,4 @@
-<h1 id="dungeonapp">DungeonApp 🐉</h1>
+<h1 id="dungeonapp">DungeonApp 🧙</h1>
 <h2 id="a-simple-text-based-dungeon-crawler-game">A Simple Text-Based Dungeon Crawler Game</h2>
 
 <p>This is my very first text-based adventure game! I combined my love for medieval adventures and my desire to become better at coding. I think it served as a sold way to learn Java's syntax, get famiilar with Object-Oriented Programming, and learn how to work with the terminal.</p>
