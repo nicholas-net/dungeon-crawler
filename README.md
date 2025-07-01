@@ -23,7 +23,7 @@
 
 <h2 id="what-i-learned">What I Learned</h2>
 <ul>
-    <li>How to use classes and objects to organize game elements.</li>
+    <li>Write a modular program using various classes and objects.</li>
     <li>Making different parts of the program interact with each other, like the combat between the hero and the different entities you're fighting!</li>
     <li>Implementing random elements for varied gameplay, like monster spawns and item drops.</li>
 </ul>
